@@ -1,0 +1,31 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="pbg" x1="0" y1="0" x2="1200" y2="300" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#071A3D"/>
+      <stop offset="1" stop-color="#0A3A54"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="300" rx="24" fill="url(#pbg)"/>
+  <rect x="1" y="1" width="1198" height="298" rx="23" stroke="#276381" stroke-width="2"/>
+  <circle cx="1030" cy="150" r="115" fill="#00C2FF" fill-opacity=".07"/>
+  <circle cx="1030" cy="150" r="76" fill="#F3B61F" fill-opacity=".06"/>
+
+  <text x="54" y="64" fill="#5BE7C4" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="800" letter-spacing="2">CURRENTLY BUILDING</text>
+  <text x="54" y="119" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="46" font-weight="900">sudoku<tspan fill="#00D4FF">.fish</tspan></text>
+  <text x="54" y="157" fill="#B8C9D8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="18">A modern Sudoku platform for solving, learning, improving and competing.</text>
+
+  <g font-family="Inter,Segoe UI,Arial,sans-serif" font-size="14" font-weight="700">
+    <rect x="54" y="200" width="142" height="40" rx="20" fill="#0E3150"/><text x="125" y="225" text-anchor="middle" fill="#D8F8FF">Daily puzzles</text>
+    <rect x="210" y="200" width="154" height="40" rx="20" fill="#0E3150"/><text x="287" y="225" text-anchor="middle" fill="#D8F8FF">Smart hints</text>
+    <rect x="378" y="200" width="178" height="40" rx="20" fill="#0E3150"/><text x="467" y="225" text-anchor="middle" fill="#D8F8FF">Player challenges</text>
+    <rect x="570" y="200" width="150" height="40" rx="20" fill="#0E3150"/><text x="645" y="225" text-anchor="middle" fill="#D8F8FF">Zen mode</text>
+  </g>
+
+  <g transform="translate(902 44)">
+    <rect width="238" height="212" rx="28" fill="#06182E" stroke="#2C6E8C"/>
+    <text x="119" y="77" text-anchor="middle" fill="#F3B61F" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17" font-weight="800">THINK</text>
+    <text x="119" y="119" text-anchor="middle" fill="#FFFFFF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="30" font-weight="900">SOLVE</text>
+    <text x="119" y="160" text-anchor="middle" fill="#00D4FF" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="20" font-weight="800">IMPROVE</text>
+    <path d="M54 181H184" stroke="#2A6683" stroke-width="2"/>
+  </g>
+</svg>

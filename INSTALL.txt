@@ -1,0 +1,35 @@
+ROHIT GITHUB PROFILE — INSTALLATION
+
+1. GitHub par public repository banao:
+   Repository name: RohitPichaya
+
+2. Is ZIP ke saare files repository root me upload karo:
+   - README.md
+   - assets/banner.svg
+   - assets/profile-card.svg
+   - assets/product-card.svg
+   - .github/workflows/snake.yml
+
+3. Commit changes karo.
+
+4. Repository ke Actions tab me workflow permission verify karo:
+   Settings → Actions → General → Workflow permissions
+   Select: Read and write permissions
+   Save.
+
+5. Actions tab me "Generate contribution snake" workflow manually run karo.
+   Workflow complete hone ke baad "output" branch create hogi.
+
+6. Profile refresh karo. README automatically profile Overview me show hoga.
+
+Recommended GitHub sidebar settings:
+Name: Rohit Pichaya
+Bio: Founder at dotFish Labs • Building sudoku.fish and focused digital products.
+Company: dotFish Labs
+Website: https://sudoku.fish
+Location: India
+
+Notes:
+- GitHub Activity graph public contribution activity dikhata hai.
+- Contribution snake workflow daily run hota hai.
+- Public repositories add hone ke baad pinned repositories configure karo.
